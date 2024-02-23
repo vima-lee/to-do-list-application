@@ -9,7 +9,7 @@
     background: -webkit-radial-gradient(center, rgba(48, 64, 64, 1.0) 0%, rgba(0, 0, 0, 1.0) 100%);
     background: -moz-radial-gradient(center, rgba(48, 64, 64, 1.0) 0%, rgba(0, 0, 0, 1.0) 100%);
     background: radial-gradient(ellipse at center, rgba(48, 64, 64, 1.0) 0%, rgba(0, 0, 0, 1.0) 100%);
-    font-family: 'Shadows Into Light', cursive;
+    font-family: "Roboto Condensed", sans-serif;
     min-height: 100vh;
   }
   
